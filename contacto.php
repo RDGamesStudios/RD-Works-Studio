@@ -4,7 +4,7 @@
   $email = $_POST["email"];
   $mensaje = $_POST["mensaje"];
 
-  $para = "pruebaemail31@gmail.com";
+  $para = "backstageappspaulo@gmail.com";
   $asunto = "Nuevo mensaje de $nombre";
 
   $mensaje = "
